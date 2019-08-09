@@ -13,4 +13,4 @@
   -https://aryann1.github.io/matrix-purple-rain/
 
 ## Live gif of what it looks like
- [Purple Rain](https://imgur.com/a/QxcOmCl)
+ ![alt-txt](https://imgur.com/a/QxcOmCl "Rain")
